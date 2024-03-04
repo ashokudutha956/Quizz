@@ -1,0 +1,84 @@
+.contain{
+    width: 640px;
+    margin: auto;
+    margin-top: 150px;
+    background: rgb(255, 254, 254);
+    color: rgb(47, 50, 50);
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    border-radius: 10px;
+    padding: 40px;
+}
+.contain hr{
+    height: 2px;
+    border: none;
+    background: #f0eeee;
+}
+.contain h2{
+    font-size: 27px;
+    font-weight: 500;
+
+}
+.contain ul li{
+    display: flex;
+    align-items: center;
+    height: 70px;
+    padding-left: 15px;
+    border: 1px solid#d20808;
+    border-radius: 8px;
+    margin-bottom: 20px;
+    font-size: 20px;
+    cursor: pointer;
+
+}
+.contain button{
+    margin: auto;
+    width: 250px;
+    height: 65px;
+    background: #3a08cf;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 500px;
+    border-radius: 8px;
+    cursor: pointer;
+}
+.contain .intial{
+    margin: auto;
+    font-size: 18px;
+}
+.correct{
+    background: #dffff2;
+    border-color: rgb(19, 232, 161);
+}
+.wrong{
+    background: #FFEBEB;
+    border-color: #b90404;
+}
+
+
+.ashok{
+    width: 540px;
+    margin: auto;
+    margin-top: 150px;
+    background: rgb(215, 207, 207);
+    color: rgb(79, 91, 91);
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+    border-radius: 10px;
+    padding: 40px;
+
+}
+.asn{
+    margin: auto;
+    width: 150px;
+    height: 45px;
+    background: #3a08cf;
+    color: aliceblue;
+    font-size: 25px;
+    font-weight: 500px;
+    border-radius: 8px;
+    cursor: pointer;
+
+}
