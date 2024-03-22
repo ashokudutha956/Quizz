@@ -3,7 +3,8 @@
   padding: 0;
 }
 body{
-  height: 100vh;
-  background-image: linear-gradient(#1ee0d0,#e318b7);
-  font-family: 'poppins';
+  height: 135vh; 
+  
+  background-image: linear-gradient(rgb(0, 213, 255),rgb(0, 225, 255));
+  
 }
